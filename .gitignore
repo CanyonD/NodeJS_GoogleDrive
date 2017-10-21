@@ -1,0 +1,8 @@
+node_modules/
+tmp/
+package-lock.json
+.idea/
+*.log
+*.log-*
+.migrate
+migrations/.migrate
